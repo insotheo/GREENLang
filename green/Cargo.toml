@@ -1,0 +1,7 @@
+[package]
+name = "green"
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
+green_lib = {path = "../green_lib"}
