@@ -1,4 +1,4 @@
-﻿mod token;
+﻿pub mod token;
 pub mod lexer;
 
 pub fn get_version() -> String{
